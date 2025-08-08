@@ -10,13 +10,9 @@ A lightweight and easy-to-use js library to redirection for support differents l
 <script src='https://cdn.jsdelivr.net/gh/lullaby6/language-redirect/language-redirect.js'></script>
 ```
 
-#### Download
+### Download
 
-<a href="https:/.jsdelivr.net/gh/lullaby6/language-redirect/language-redirect.js" target="_blank">Download</a> and include the downloaded file in your project:
-
-```html
-<script src="/path/to/language-redirect.js"></script>
-```
+<a href="https://cdn.jsdelivr.net/gh/lullaby6/language-redirect/language-redirect.js" target="_blank" download>Download</a>
 
 ## Usage
 
@@ -40,7 +36,3 @@ languageRedirect({
     es: '/es/index.html'
 });
 ```
-
-# License
-
-MIT
